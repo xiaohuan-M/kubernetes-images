@@ -1,0 +1,1 @@
+FROM kube-proxy:v1.24.2
