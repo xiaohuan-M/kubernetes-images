@@ -98,7 +98,6 @@ pluggy
 pooch
 prison
 psutil
-psycopg2
 pycparser
 pycryptodome
 Pygments
